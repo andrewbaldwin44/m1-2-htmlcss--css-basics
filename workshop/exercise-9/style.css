@@ -6,10 +6,17 @@ img {
 }
 
 .img2 {
+  display: none;
 }
 
 .img3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
 }
 
 .img4 {
+  position: absolute;
+  top: 65%;
+  left: 65%;
 }
